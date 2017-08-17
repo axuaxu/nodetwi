@@ -11,4 +11,3 @@ module.exports = {
   access_token: '427515600-VKFcD4Ao8biS3g3Ps8YircSEWKOraa69OOkNX4w2',  
   access_token_secret: '70m8DzF88OLYCT3jTnQfJgUjXRrSBdWpTPmVn895RfdPS'
 }
-
